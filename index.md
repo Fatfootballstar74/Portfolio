@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Portfolio
 [Drone Zone](./DroneZone.md)
 
