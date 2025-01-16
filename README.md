@@ -1,5 +1,5 @@
 # Portfolio
-[Drone Zone](DroneZone.md)
+[Drone Zone](./DroneZone.md)
 
 ### Education
 Cybersecurity, B.S
