@@ -48,13 +48,13 @@ Take a look at my professional journey:
 ![Drone Photo](https://via.placeholder.com/800x400 "Beautiful drone shot")
 *Caption: [Describe the photo, e.g., Sunset over the mountains.]*
 
-### 🛠️ Latest Project
-**[Project Name]**
-- Objective: [Project Objective]
-- Tools Used: [Tools or techniques applied]
-- Result: [Key outcomes or achievements]
+[//]: # ### 🛠️ Latest Project
+[//]: # **[Project Name]**
+[//]: # - Objective: [Project Objective]
+[//]: # - Tools Used: [Tools or techniques applied]
+[//]: # - Result: [Key outcomes or achievements]
 
-[Learn More](./projects)
+[//]: # [Learn More](./projects.md)
 
 ---
 
@@ -62,8 +62,8 @@ Take a look at my professional journey:
 
 I'm always looking for exciting opportunities and collaborations. Feel free to reach out!
 
-- 📧 [Email Me](mailto:your_email@example.com)
-- 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📧 [Email Me](mailto:Contactme@mamadouseck.com)
+- 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/mamadou-l-seck)
 
 ---
 
